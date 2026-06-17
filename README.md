@@ -64,4 +64,4 @@
 ## <p align="center"> `[C]` `[S]` `[2]` `[W]` `[A]` `[R]` `[E]` —  A I . S Y N C E D.</p>
 #computer-vision, #object-detection, #pytorch, #counter-strike-2, #source2-engine, #cs2-modding, #esports-analytics, #steam-appid-730, #real-time-processing, #spatial-analysis
 
-<!-- update: A -->
+<!-- update: A -->​
